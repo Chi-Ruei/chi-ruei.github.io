@@ -1,2 +1,1 @@
-# personal_page
-# https://chi-ruei.github.io/
+# rick1103.github.io
